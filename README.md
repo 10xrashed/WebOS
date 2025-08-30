@@ -4,30 +4,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/10xrashed/WebOS?style=social)](https://github.com/10xrashed/WebOS/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/10xrashed/WebOS?style=social)](https://github.com/10xrashed/WebOS/network/members)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-## Table of Contents
-
--   [About WebOS](#about-webos)
--   [Features](#features)
-    -   [Core OS Experience](#core-os-experience)
-    -   [Integrated Applications](#integrated-applications)
-    -   [Customization & Utilities](#customization--utilities)
--   [Getting Started](#getting-started)
--   [Usage](#usage)
-    -   [Boot & Login](#boot--login)
-    -   [Desktop Interaction](#desktop-interaction)
-    -   [Terminal Commands](#terminal-commands)
-    -   [File System Persistence](#file-system-persistence)
--   [Technical Details](#technical-details)
--   [Future Enhancements (Ideas)](#future-enhancements-ideas)
--   [Contributing](#contributing)
--   [License](#license)
--   [Credits](#credits)
-
----
-
 ## About WebOS
-
 WebOS is an ambitious, single-file web application that brilliantly simulates a full-fledged Linux-like desktop environment directly in your web browser. Built entirely with HTML, CSS, and vanilla JavaScript, it offers a surprisingly rich and interactive user experience, complete with a boot sequence, a login screen, and a wide array of functional, albeit simulated, applications.
 
 Dive into a retro-futuristic desktop experience, explore a virtual file system, execute a vast set of Linux-like commands in the terminal, play classic games, and customize your workspace – all without leaving your browser tab!
