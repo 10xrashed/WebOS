@@ -222,5 +222,5 @@ Having issues? Try these steps:
 **🐧 Welcome to WebOS - Where the web meets the desktop!**
 
 *Made with ❤️ for the open source community*
-```
+
 
